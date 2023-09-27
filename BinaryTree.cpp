@@ -192,5 +192,6 @@ int main()
     // postorderTransversal(root);
     // cout<<endl;
     // cout<<endl;
+    cout<<"namaste"<<endl;
     return 0;
 }
